@@ -1,0 +1,12 @@
+# First and second line of this file are reserved. The second line must contain comma separated variables.
+ReceiverName,PGPExpirationDate,NodeSignature
+Esteemed %1$s,
+
+This is an e-mail message to notify you that your PGP key is going to expire on %2$s
+
+Without a valid PGP key, the system won't be able to send you encrypted notifications.
+
+You are invited to extend its validity and reload it on the platform or to upload a new key.
+
+Take Care,
+%3$s
